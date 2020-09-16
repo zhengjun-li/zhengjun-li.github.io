@@ -1,0 +1,20 @@
+TODOs
+
+1. Build projects
+    - folder structure
+    - add files
+    - linking files
+
+2. Navbar
+    - 2 links and a name
+
+3. Grid
+    - images
+    - titles
+    - descriptions
+    - animations!!!
+
+4. About
+    - picture and text
+    - split column layout
+
